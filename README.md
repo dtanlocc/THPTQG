@@ -1,6 +1,8 @@
 # **CRAWL DỮ LIỆU THÔ ĐIỂM THI THPTQG 2022**
-### *Sử dụng ngôn ngữ python dùng trên google colab và file được lưu trên drive*
-
+### *Sử dụng ngôn ngữ python dùng trên google colab và file được lưu trên drive (có link đính kèm)*
+### *Ngoài ra còn sử dụng file python chạy trực tiếp trên máy qua file main.py*
+### *file data mình đã thực hiện được lưu tại Data/diemthi2022.csv*
+### *Nguồn mình sử dụng lấy từ trang của báo dantri*
 ### *DANH SÁCH MÃ TỈNH 2 SỐ ĐẦU CỦA SBD*
 *   01 - THÀNH PHỐ HÀ NỘI
 *   02 - THÀNH PHỐ HỒ CHÍ MINH
